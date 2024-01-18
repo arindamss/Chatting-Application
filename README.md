@@ -10,7 +10,9 @@ A simple chat application developed in Java using Swing for the GUI. The project
 
 ## Screenshots
 
-Include screenshots or GIFs here to showcase the application's UI and functionality.
+![Image1](icons/a1.png)
+![Image2](icons/a2.png)
+![image3](icons/a3.png)
 
 ## Getting Started
 
