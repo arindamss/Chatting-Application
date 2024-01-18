@@ -1,5 +1,4 @@
 # Chatting-Application
-# Chat Application
 
 A simple chat application developed in Java using Swing for the GUI. The project includes both server and client implementations.
 
